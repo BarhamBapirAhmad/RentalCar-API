@@ -7,7 +7,7 @@ use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Car extends Model
 {
-
+//asdfaisejofiajeoirjoaeishrowherouq
     protected $fillable = [
         'name', 'model', 'daily_price', 'weekly_price', 'monthly_price','brand','year','is_available'
     ];
